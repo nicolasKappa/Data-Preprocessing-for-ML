@@ -40,7 +40,8 @@ git clone https://github.com/nicolasKappa/Data-Preprocessing-and-Analysis.git
 - Provided dataset can be found:  https://liverpool-online-study.com/pluginfile.php/254768/mod_assign/intro/SIS_Faculty-List.csv?time=1712230095017
 
 # License 
-- MIT
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+- * This project is licensed under the MIT License - see the LICENSE file for details.
 
 # Contributing
 - You can Freely contribute according to README.MD
